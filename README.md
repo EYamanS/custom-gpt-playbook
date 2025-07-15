@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated guide and collection of resources for building, prompting, and integrating high-impact Custom GPTs, with a special focus on advertising, marketing, and creative workflows. As a Creative Director working at the intersection of technology and advertising, I created this playbook to bridge the gap between AI's potential and practical, real-world creative application.
+A curated guide and collection of resources for building, prompting, and integrating high-impact Custom GPTs, with a special focus on advertising, marketing, and creative workflows. As a Director of Creative Team working at the intersection of technology and advertising, I created this playbook to bridge the gap between AI's potential and practical, real-world creative application.
 
 ---
 
