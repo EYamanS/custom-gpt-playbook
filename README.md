@@ -58,7 +58,7 @@ A curated guide and collection of resources for building, prompting, and integra
 ## 🔧 Tools & Helper Libraries
 *Tools that make the GPT creation process easier.*
 
-- **[LangChain](https://www.langchain.com/)** - **My Take:** Simplifies building multi-step GPT workflows with chains, agents, and memory persistence.
+- **[LangChain](https://github.com/hwchase17/langchain)** - **My Take:** Simplifies building multi-step GPT workflows with chains, agents, and memory persistence.
 - **[GPTCache](https://github.com/zilliztech/GPTCache)** - **My Take:** Local caching layer to reduce API calls and speed up repetitive queries.
 
 
