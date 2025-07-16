@@ -58,6 +58,9 @@ A curated guide and collection of resources for building, prompting, and integra
     ```
 
 
+    new stuff
+
+
 ## 🔧 Tools & Helper Libraries
 *Tools that make the GPT creation process easier.*
 
