@@ -21,7 +21,10 @@ A curated guide and collection of resources for building, prompting, and integra
 *A collection of powerful and creative GPTs that showcase what's possible.*
 
 - **[Educational Bedtime Stories](https://chatgpt.com/g/g-YbbPWAyOa-educational-bedtime-stories)** - **My Take:** A personal project I designed and developed to transform children's bedtime into an imaginative learning adventure. It's an exploration of how Generative AI can be used for positive, ethical, and creative storytelling for families.
+- **[Unique History Explorer](https://chatgpt.com/g/g-nnAKedEfO-unique-history-explorer)** - **My Take:** Another personal project that combines historical storytelling with AI-driven visual creation. This GPT makes history accessible and engaging by sharing lesser-known facts accompanied by hyper-realistic images, showcasing the potential of AI in digital humanities and content creation.
 - **My Agency's Internal GPT** - **My Take:** The core tool I developed to automate our creative briefing process, directly resulting in a 30% reduction in project turnaround time. A full case study is available within my evidence portfolio.
+
+
 
 
 ## 🛠️ Prompt Engineering Techniques
