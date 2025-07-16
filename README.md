@@ -22,8 +22,8 @@ A curated guide and collection of resources for building, prompting, and integra
 
 - **[Educational Bedtime Stories](https://chatgpt.com/g/g-YbbPWAyOa-educational-bedtime-stories)** - **My Take:** A personal project I designed and developed to transform children's bedtime into an imaginative learning adventure. It's an exploration of how Generative AI can be used for positive, ethical, and creative storytelling for families.
 - **[Unique History Explorer](https://chatgpt.com/g/g-nnAKedEfO-unique-history-explorer)** - **My Take:** Another personal project that combines historical storytelling with AI-driven visual creation. This GPT makes history accessible and engaging by sharing lesser-known facts accompanied by hyper-realistic images, showcasing the potential of AI in digital humanities and content creation.
+- **[Image to Text Explainer](https://chatgpt.com/g/g-dsoafWXfV-image-to-text)** - **My Take:** I developed this 'Image to Text' GPT as a versatile utility for digital professionals. Its primary function is to create clear, objective descriptions for crucial tasks like generating SEO-friendly alt-text to improve web accessibility (a11y), or for analytically deconstructing visual content in creative projects. It's a practical demonstration of applying multi-modal AI to enhance both digital inclusivity and workflow efficiency.
 - **My Agency's Internal GPT** - **My Take:** The core tool I developed to automate our creative briefing process, directly resulting in a 30% reduction in project turnaround time. A full case study is available within my evidence portfolio.
-
 
 
 
